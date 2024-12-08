@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-circle&logo=D3dotjs&logoColor=white"/>
 <br/>
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-circle&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-circle&logo=C&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-circle&logo=cplusplus&logoColor=white"/>
 <br/>
 
