@@ -41,6 +41,6 @@
 <div>
 <a href="mailto:nowgnoesiohc@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-circle&logo=Gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/seongwon-choi-23812126a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-circle&logo=LinkedIn&logoColor=white" /></a>
-<a href="https://nowgnoesiohc.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-circle&logo=Tistory&logoColor=white" /></a>
+<!-- <a href="https://nowgnoesiohc.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-circle&logo=Tistory&logoColor=white" /></a> -->
 </div>
 
