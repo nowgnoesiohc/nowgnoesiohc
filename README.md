@@ -19,6 +19,7 @@
 -->
 <!-- <img src = "https://img.shields.io/badge/jQuery-0769AD?style=flat-circle&logo=jquery&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-circle&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-circle&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-circle&logo=D3dotjs&logoColor=white"/>
 <br/>
 
